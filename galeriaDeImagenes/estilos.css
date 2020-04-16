@@ -1,0 +1,46 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+div {
+    display: flex;
+    /* border: 1px dashed black; */
+}
+
+.salida {
+    width: 800px;
+    display: block;
+
+}
+
+.nombre p{
+    /* font-size: 30px; */
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.carrera p {
+    /* font-size: 30px; */
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.descripcion p {
+    /* font-siz: 30px; */
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.datos {
+    display: inline;
+}
